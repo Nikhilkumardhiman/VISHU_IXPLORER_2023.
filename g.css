@@ -1,0 +1,21 @@
+.parent-div {
+    width: 1440px;
+    height: 2119px;
+    overflow: hidden;
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+  }
+  .FRAME-10-8 {
+    transform: rotate(0deg);
+    position: relative;
+    width: 1440px;
+    height: 2119px;
+    left: 0px;
+    top: 0px;
+    opacity: 1;
+    overflow: hidden;
+    background: rgba(255, 255, 255, 1);
+  }
+  
+  
